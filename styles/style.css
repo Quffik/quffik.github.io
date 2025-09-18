@@ -66,6 +66,6 @@ body{
 
 @media screen and (max-width: 768px) {
     #links img{
-        width: 5%;
+        width: 10%;
     }
 }
